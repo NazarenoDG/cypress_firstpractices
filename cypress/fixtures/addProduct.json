@@ -1,0 +1,11 @@
+{
+    "buttonAddCartPlp":"#homefeatured > .first-in-line.first-item-of-tablet-line > .product-container > .right-block > .button-container > .ajax_add_to_cart_button > span",
+    "buttonProceedCheckOut":".button-medium > span",
+    "productAddedCart":".layer_cart_product > h2",
+    "cartTitle":"#cart_title",
+    "buttonProceed":".cart_navigation > .button > span",
+    "signAuth":".page-heading",
+    "navSummary": ".step_done_last > a",
+    "iconDelete": ".icon-trash",
+    "alertCartEmpty": ".alert"
+}
